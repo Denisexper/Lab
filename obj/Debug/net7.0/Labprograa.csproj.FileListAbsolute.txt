@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\Desktop\Labprograa\bin\Debug\net7.0\Labprograa.exe
+C:\Users\MINEDUCYT\Desktop\Labprograa\bin\Debug\net7.0\Labprograa.deps.json
+C:\Users\MINEDUCYT\Desktop\Labprograa\bin\Debug\net7.0\Labprograa.runtimeconfig.json
+C:\Users\MINEDUCYT\Desktop\Labprograa\bin\Debug\net7.0\Labprograa.dll
+C:\Users\MINEDUCYT\Desktop\Labprograa\bin\Debug\net7.0\Labprograa.pdb
+C:\Users\MINEDUCYT\Desktop\Labprograa\obj\Debug\net7.0\Labprograa.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Labprograa\obj\Debug\net7.0\Labprograa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Labprograa\obj\Debug\net7.0\Labprograa.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Labprograa\obj\Debug\net7.0\Labprograa.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Labprograa\obj\Debug\net7.0\Labprograa.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Labprograa\obj\Debug\net7.0\Labprograa.dll
+C:\Users\MINEDUCYT\Desktop\Labprograa\obj\Debug\net7.0\refint\Labprograa.dll
+C:\Users\MINEDUCYT\Desktop\Labprograa\obj\Debug\net7.0\Labprograa.pdb
+C:\Users\MINEDUCYT\Desktop\Labprograa\obj\Debug\net7.0\Labprograa.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Desktop\Labprograa\obj\Debug\net7.0\ref\Labprograa.dll
